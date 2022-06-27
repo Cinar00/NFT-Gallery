@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+Uygulamayı çalıştırmadan önce `npx json-server --watch src/api/db.json --port 3002` kodu ile json server'i çalıştırın.
 
 ## Available Scripts
 
