@@ -1,0 +1,23 @@
+.fiyatMain .form-control {
+    width: 25%!important;
+}
+
+/* ===================== MEDIA QUERIES (PHONES) ===================== */
+
+@media screen and (max-width: 600px) {
+    .fiyatMain {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .fiyatMain form {
+        width: auto;
+    }
+    .fiyatArtanAzalan {
+        width: 100%!important;
+    }
+}
+
+
+
+
